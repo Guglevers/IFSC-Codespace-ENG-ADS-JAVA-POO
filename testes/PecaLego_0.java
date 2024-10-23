@@ -1,4 +1,4 @@
-public class PecaLego {
+public class PecaLego_0 {
     // Atributos (características da peça)
     String cor;
     String formato;
