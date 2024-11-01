@@ -1,3 +1,5 @@
+package junk_tests;
+
 public class A1_1Teste {
     public static void main(String[] args) {
         // Tipos inteiros

@@ -1,3 +1,5 @@
+package junk_tests;
+
 public class A1_3Teste {
     public static final double PI = 3.1416;
     public static void main(String[] args) {

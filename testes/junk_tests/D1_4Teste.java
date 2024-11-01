@@ -1,3 +1,4 @@
+package junk_tests;
 import java.util.Scanner;
 
 public class D1_4Teste {

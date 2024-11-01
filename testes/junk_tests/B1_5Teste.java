@@ -1,3 +1,5 @@
+package junk_tests;
+
 public class B1_5Teste {
     public static void main(String[] args) {
         // Trabalhando com Integer

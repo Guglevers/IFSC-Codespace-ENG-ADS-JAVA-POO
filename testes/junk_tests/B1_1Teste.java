@@ -1,3 +1,5 @@
+package junk_tests;
+
 import java.util.Scanner;
 
 public class B1_1Teste {

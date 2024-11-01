@@ -1,3 +1,5 @@
+package junk_tests;
+
 public class E1_6Teste {
     public static void main(String[] args) {
         double raio = 5.0;

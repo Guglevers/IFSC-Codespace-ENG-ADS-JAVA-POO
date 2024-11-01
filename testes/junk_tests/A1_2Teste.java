@@ -1,3 +1,5 @@
+package junk_tests;
+
 public class A1_2Teste {
     public static void main(String[] args) {
         // Tipo caractere
