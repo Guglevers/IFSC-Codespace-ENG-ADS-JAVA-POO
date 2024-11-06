@@ -3,8 +3,6 @@
 //Eu criei o metodo principal do projte "main" é nele que meu código roda, além disso eu usei metodos, como .nextInt(); que é um metodo para objetos da classe Scanner, 
 //Usei também metodos wrapper para transformar as strings em int em então em binarios ou octais
 
-package exercicios;
-
 import java.util.Scanner;
 
 public class Menu {
