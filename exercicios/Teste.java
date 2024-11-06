@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class teste {
+public class Teste {
     public static void main (String[] args){
 
         Scanner inp = new Scanner(System.in);
@@ -12,6 +12,8 @@ public class teste {
         String numeros_str[] = input.split(" ");
 
         System.out.println(sum(numeros_str));
+
+        inp.close();
     }
 
     public static int sum (String[] args){
